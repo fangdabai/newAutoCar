@@ -1,0 +1,15 @@
+server:
+  port: 8099
+  address: 0.0.0.0   # 允许局域网访问
+
+spring:
+  datasource:
+    url: jdbc:sqlserver://localhost:1433;databaseName=helloSH
+    username: sa
+    password: "!Yy1"
+    driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
+
+springdoc:
+  api-docs:
+    version: OPENAPI_3_0  # 配置支持的版本，指定了 Springdoc OpenAPI 使用 OpenAPI 3.0 规范来生成 API 文档
+

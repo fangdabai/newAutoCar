@@ -1,0 +1,148 @@
+2025-02-18 18:29:54 - Starting Main using Java 1.8.0_131 on FXB-DELL with PID 5784 (C:\Users\fxb\Desktop\newAutoCar\newAutoCar\target\classes started by fxb in C:\Users\fxb\Desktop\newAutoCar\newAutoCar)
+2025-02-18 18:29:54 - No active profile set, falling back to 1 default profile: "default"
+2025-02-18 18:29:55 - Tomcat initialized with port(s): 8099 (http)
+2025-02-18 18:29:55 - Initializing ProtocolHandler ["http-nio-0.0.0.0-8099"]
+2025-02-18 18:29:55 - Starting service [Tomcat]
+2025-02-18 18:29:55 - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2025-02-18 18:29:55 - Initializing Spring embedded WebApplicationContext
+2025-02-18 18:29:55 - Root WebApplicationContext: initialization completed in 623 ms
+2025-02-18 18:29:55 - Starting ProtocolHandler ["http-nio-0.0.0.0-8099"]
+2025-02-18 18:29:55 - Tomcat started on port(s): 8099 (http) with context path ''
+2025-02-18 18:29:55 - Started Main in 1.223 seconds (JVM running for 1.802)
+2025-02-18 18:30:02 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-02-18 18:30:02 - Initializing Servlet 'dispatcherServlet'
+2025-02-18 18:30:02 - Completed initialization in 1 ms
+2025-02-18 18:30:02 - This is an info log.
+2025-02-18 18:30:02 - This is an error log.
+2025-02-18 18:30:44 - Starting Main using Java 1.8.0_131 on FXB-DELL with PID 13384 (C:\Users\fxb\Desktop\newAutoCar\newAutoCar\target\classes started by fxb in C:\Users\fxb\Desktop\newAutoCar\newAutoCar)
+2025-02-18 18:30:44 - No active profile set, falling back to 1 default profile: "default"
+2025-02-18 18:30:44 - Tomcat initialized with port(s): 8099 (http)
+2025-02-18 18:30:44 - Initializing ProtocolHandler ["http-nio-0.0.0.0-8099"]
+2025-02-18 18:30:44 - Starting service [Tomcat]
+2025-02-18 18:30:44 - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2025-02-18 18:30:44 - Initializing Spring embedded WebApplicationContext
+2025-02-18 18:30:44 - Root WebApplicationContext: initialization completed in 611 ms
+2025-02-18 18:30:45 - Starting ProtocolHandler ["http-nio-0.0.0.0-8099"]
+2025-02-18 18:30:45 - Tomcat started on port(s): 8099 (http) with context path ''
+2025-02-18 18:30:45 - Started Main in 1.198 seconds (JVM running for 1.826)
+2025-02-18 18:37:01 - Starting Main using Java 1.8.0_131 on FXB-DELL with PID 16780 (C:\Users\fxb\Desktop\newAutoCar\newAutoCar\target\classes started by fxb in C:\Users\fxb\Desktop\newAutoCar\newAutoCar)
+2025-02-18 18:37:01 - No active profile set, falling back to 1 default profile: "default"
+2025-02-18 18:37:02 - Tomcat initialized with port(s): 8099 (http)
+2025-02-18 18:37:02 - Initializing ProtocolHandler ["http-nio-0.0.0.0-8099"]
+2025-02-18 18:37:02 - Starting service [Tomcat]
+2025-02-18 18:37:02 - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2025-02-18 18:37:02 - Initializing Spring embedded WebApplicationContext
+2025-02-18 18:37:02 - Root WebApplicationContext: initialization completed in 605 ms
+2025-02-18 18:37:02 - Starting ProtocolHandler ["http-nio-0.0.0.0-8099"]
+2025-02-18 18:37:02 - Tomcat started on port(s): 8099 (http) with context path ''
+2025-02-18 18:37:02 - Started Main in 1.21 seconds (JVM running for 1.844)
+2025-02-18 18:39:54 - Starting Main using Java 1.8.0_131 on FXB-DELL with PID 8144 (C:\Users\fxb\Desktop\newAutoCar\newAutoCar\target\classes started by fxb in C:\Users\fxb\Desktop\newAutoCar\newAutoCar)
+2025-02-18 18:39:54 - No active profile set, falling back to 1 default profile: "default"
+2025-02-18 18:39:55 - Tomcat initialized with port(s): 8099 (http)
+2025-02-18 18:39:55 - Initializing ProtocolHandler ["http-nio-0.0.0.0-8099"]
+2025-02-18 18:39:55 - Starting service [Tomcat]
+2025-02-18 18:39:55 - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2025-02-18 18:39:55 - Initializing Spring embedded WebApplicationContext
+2025-02-18 18:39:55 - Root WebApplicationContext: initialization completed in 646 ms
+2025-02-18 18:39:55 - Starting ProtocolHandler ["http-nio-0.0.0.0-8099"]
+2025-02-18 18:39:56 - Tomcat started on port(s): 8099 (http) with context path ''
+2025-02-18 18:39:56 - Started Main in 1.288 seconds (JVM running for 1.882)
+2025-02-18 18:40:08 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-02-18 18:40:08 - Initializing Servlet 'dispatcherServlet'
+2025-02-18 18:40:08 - Completed initialization in 1 ms
+2025-02-18 18:40:08 - This is an info log.
+2025-02-18 18:40:08 - This is an error log.
+2025-02-18 18:40:41 - Starting Main using Java 1.8.0_131 on FXB-DELL with PID 20024 (C:\Users\fxb\Desktop\newAutoCar\newAutoCar\target\classes started by fxb in C:\Users\fxb\Desktop\newAutoCar\newAutoCar)
+2025-02-18 18:40:41 - No active profile set, falling back to 1 default profile: "default"
+2025-02-18 18:40:42 - Tomcat initialized with port(s): 8099 (http)
+2025-02-18 18:40:42 - Initializing ProtocolHandler ["http-nio-0.0.0.0-8099"]
+2025-02-18 18:40:42 - Starting service [Tomcat]
+2025-02-18 18:40:42 - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2025-02-18 18:40:42 - Initializing Spring embedded WebApplicationContext
+2025-02-18 18:40:42 - Root WebApplicationContext: initialization completed in 676 ms
+2025-02-18 18:40:42 - Starting ProtocolHandler ["http-nio-0.0.0.0-8099"]
+2025-02-18 18:40:43 - Tomcat started on port(s): 8099 (http) with context path ''
+2025-02-18 18:40:43 - Started Main in 1.305 seconds (JVM running for 1.888)
+2025-02-18 18:40:53 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-02-18 18:40:53 - Initializing Servlet 'dispatcherServlet'
+2025-02-18 18:40:53 - Completed initialization in 1 ms
+2025-02-18 18:40:53 - This is an info log.
+2025-02-18 18:40:53 - This is an error log.
+2025-02-18 18:43:09 - Starting Main using Java 1.8.0_131 on FXB-DELL with PID 20956 (C:\Users\fxb\Desktop\newAutoCar\newAutoCar\target\classes started by fxb in C:\Users\fxb\Desktop\newAutoCar\newAutoCar)
+2025-02-18 18:43:09 - No active profile set, falling back to 1 default profile: "default"
+2025-02-18 18:43:10 - Tomcat initialized with port(s): 8099 (http)
+2025-02-18 18:43:10 - Initializing ProtocolHandler ["http-nio-0.0.0.0-8099"]
+2025-02-18 18:43:10 - Starting service [Tomcat]
+2025-02-18 18:43:10 - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2025-02-18 18:43:10 - Initializing Spring embedded WebApplicationContext
+2025-02-18 18:43:10 - Root WebApplicationContext: initialization completed in 618 ms
+2025-02-18 18:43:10 - Starting ProtocolHandler ["http-nio-0.0.0.0-8099"]
+2025-02-18 18:43:10 - Tomcat started on port(s): 8099 (http) with context path ''
+2025-02-18 18:43:10 - Started Main in 1.226 seconds (JVM running for 1.808)
+2025-02-18 18:43:18 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-02-18 18:43:18 - Initializing Servlet 'dispatcherServlet'
+2025-02-18 18:43:18 - Completed initialization in 0 ms
+2025-02-18 18:43:18 - This is an info log.
+2025-02-18 18:43:18 - This is an error log.
+2025-02-18 19:17:07 - Starting Main using Java 1.8.0_131 on FXB-DELL with PID 15784 (C:\Users\fxb\Desktop\newAutoCar\newAutoCar\target\classes started by fxb in C:\Users\fxb\Desktop\newAutoCar\newAutoCar)
+2025-02-18 19:17:07 - No active profile set, falling back to 1 default profile: "default"
+2025-02-18 19:17:07 - No MyBatis mapper was found in '[com.yinuo.newautocar.mapper]' package. Please check your configuration.
+2025-02-18 19:17:07 - Tomcat initialized with port(s): 8099 (http)
+2025-02-18 19:17:07 - Initializing ProtocolHandler ["http-nio-0.0.0.0-8099"]
+2025-02-18 19:17:07 - Starting service [Tomcat]
+2025-02-18 19:17:07 - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2025-02-18 19:17:07 - Initializing Spring embedded WebApplicationContext
+2025-02-18 19:17:07 - Root WebApplicationContext: initialization completed in 660 ms
+2025-02-18 19:17:08 - Starting ProtocolHandler ["http-nio-0.0.0.0-8099"]
+2025-02-18 19:17:08 - Tomcat started on port(s): 8099 (http) with context path ''
+2025-02-18 19:17:08 - Started Main in 1.634 seconds (JVM running for 2.216)
+2025-02-18 19:17:22 - Starting Main using Java 1.8.0_131 on FXB-DELL with PID 17044 (C:\Users\fxb\Desktop\newAutoCar\newAutoCar\target\classes started by fxb in C:\Users\fxb\Desktop\newAutoCar\newAutoCar)
+2025-02-18 19:17:22 - No active profile set, falling back to 1 default profile: "default"
+2025-02-18 19:17:22 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-02-18 19:17:22 - Finished Spring Data repository scanning in 3 ms. Found 0 JPA repository interfaces.
+2025-02-18 19:17:22 - No MyBatis mapper was found in '[com.yinuo.newautocar.mapper]' package. Please check your configuration.
+2025-02-18 19:17:22 - Tomcat initialized with port(s): 8099 (http)
+2025-02-18 19:17:22 - Initializing ProtocolHandler ["http-nio-0.0.0.0-8099"]
+2025-02-18 19:17:22 - Starting service [Tomcat]
+2025-02-18 19:17:22 - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2025-02-18 19:17:22 - Initializing Spring embedded WebApplicationContext
+2025-02-18 19:17:22 - Root WebApplicationContext: initialization completed in 762 ms
+2025-02-18 19:17:22 - HikariPool-1 - Starting...
+2025-02-18 19:17:23 - HikariPool-1 - Start completed.
+2025-02-18 19:17:23 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-02-18 19:17:23 - HHH000412: Hibernate ORM core version 5.6.7.Final
+2025-02-18 19:17:23 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2025-02-18 19:17:23 - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2008Dialect
+2025-02-18 19:17:23 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2025-02-18 19:17:23 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-02-18 19:17:23 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-02-18 19:17:24 - Starting ProtocolHandler ["http-nio-0.0.0.0-8099"]
+2025-02-18 19:17:24 - Tomcat started on port(s): 8099 (http) with context path ''
+2025-02-18 19:17:24 - Started Main in 2.379 seconds (JVM running for 2.956)
+2025-02-18 19:17:50 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-02-18 19:17:50 - HikariPool-1 - Shutdown initiated...
+2025-02-18 19:17:50 - HikariPool-1 - Shutdown completed.
+2025-02-18 19:17:55 - Starting Main using Java 1.8.0_131 on FXB-DELL with PID 1600 (C:\Users\fxb\Desktop\newAutoCar\newAutoCar\target\classes started by fxb in C:\Users\fxb\Desktop\newAutoCar\newAutoCar)
+2025-02-18 19:17:55 - No active profile set, falling back to 1 default profile: "default"
+2025-02-18 19:17:55 - No MyBatis mapper was found in '[com.yinuo.newautocar.mapper]' package. Please check your configuration.
+2025-02-18 19:17:56 - Tomcat initialized with port(s): 8099 (http)
+2025-02-18 19:17:56 - Initializing ProtocolHandler ["http-nio-0.0.0.0-8099"]
+2025-02-18 19:17:56 - Starting service [Tomcat]
+2025-02-18 19:17:56 - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2025-02-18 19:17:56 - Initializing Spring embedded WebApplicationContext
+2025-02-18 19:17:56 - Root WebApplicationContext: initialization completed in 637 ms
+2025-02-18 19:17:56 - Starting ProtocolHandler ["http-nio-0.0.0.0-8099"]
+2025-02-18 19:17:56 - Tomcat started on port(s): 8099 (http) with context path ''
+2025-02-18 19:17:56 - Started Main in 1.621 seconds (JVM running for 2.197)
+2025-02-18 19:20:11 - Starting Main using Java 1.8.0_131 on FXB-DELL with PID 11244 (C:\Users\fxb\Desktop\newAutoCar\newAutoCar\target\classes started by fxb in C:\Users\fxb\Desktop\newAutoCar\newAutoCar)
+2025-02-18 19:20:11 - No active profile set, falling back to 1 default profile: "default"
+2025-02-18 19:20:11 - No MyBatis mapper was found in '[com.yinuo.newautocar.mapper]' package. Please check your configuration.
+2025-02-18 19:20:11 - Tomcat initialized with port(s): 8099 (http)
+2025-02-18 19:20:11 - Initializing ProtocolHandler ["http-nio-0.0.0.0-8099"]
+2025-02-18 19:20:11 - Starting service [Tomcat]
+2025-02-18 19:20:11 - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2025-02-18 19:20:11 - Initializing Spring embedded WebApplicationContext
+2025-02-18 19:20:11 - Root WebApplicationContext: initialization completed in 563 ms
+2025-02-18 19:20:12 - Starting ProtocolHandler ["http-nio-0.0.0.0-8099"]
+2025-02-18 19:20:12 - Tomcat started on port(s): 8099 (http) with context path ''
+2025-02-18 19:20:12 - Started Main in 1.475 seconds (JVM running for 2.0)
